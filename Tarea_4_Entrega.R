@@ -5,8 +5,8 @@ library(plotly)
 library(ggplot2)
 
 #Tabla #1 (la base de dato es:https://datamexico.org/en/profile/geo/mexico)
-#Tube que usar esta base de datos(https://datamexico.org/en/profile/geo/mexico),
-# ya que con la de datos libres gob RD no me dejaba trabajar
+#use la siguiente base de datos(https://datamexico.org/en/profile/geo/mexico),
+# con la misma selecione algunos documento para mostralos en las diferentes tablas.
 
 recurso = GET("https://datamexico.org/api/data.jsonrecords?Covid+Result=1&Nation=mex&cube=gobmx_covid&drilldowns=Age+Range,Time&locale=en&measures=Cases&parents=false&time=time.latest")
 recurso
