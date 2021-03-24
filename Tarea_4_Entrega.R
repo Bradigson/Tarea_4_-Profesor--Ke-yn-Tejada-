@@ -125,7 +125,7 @@ plot(Casos, Id)
 
 
 #Grafica #3
-#En esta grafica represento los años con sus respectivos Decline de la tabla numero 3
+#En esta grafica represento los años con sus respectivos Trimestre de la tabla numero 3
 
 
 Años <- select(Tabla_3,Year) %>% unlist
