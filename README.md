@@ -5,7 +5,13 @@
  tomadas de la base de datos(https://datamexico.org/en/profile/geo/mexico) 
  Luego se podran observar 5 graficas corespondientes a, algunos de los c
  ampos de las tablas ya mensionadas.
+ 
+ 
+ (En (Tarea_4_Entrega.R), pdremos encontar tot el codigo de la tarea. Y en (Tarea_4(entrega).Rproj), 
+ podremos encontrar el proyecto en R)
+
 
 Ojo:Todo esta mas que bien, pero en caso de dudas, en
 la tarea hay un documento llamado prueva, donde se
 demuestra que todo esta mas que bien en la tarea 4.
+
